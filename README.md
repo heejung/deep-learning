@@ -15,6 +15,9 @@ Generate a TV script by defining and training a Recurrent Neural Network (RNN), 
 ### 4. Generate Faces (GAN - Generative Adversarial Networks)
 Define two adversarial networks, a generator and discriminator, and train them until you can generate realistic faces.
 
+### 5. Deploying a Sentiment Analysis Model (deploy on SageMaker)
+Build and deploy a neural network which predicts the senstiment of a user-provided movie review. In addition, create a simple web app that uses the deployed model. 
+
 ## Computer Vision
 
 ### 1. Facial Keypoint Detection (CNN to detect facial keypoints)
