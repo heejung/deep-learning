@@ -1,5 +1,10 @@
 # deep-learning
-Computer Vision and Natural Language Processing/Understanding applications utilizing Deep Learning models. Projects are suggested by Udacity (udacity.com).
+Deep Learning applications, including Computer Vision and Natural Language Processing/Understanding applications. Projects are suggested by Udacity (udacity.com).
+
+## Deep Learning
+
+### 1. Predicting Bike-Sharing Patterns
+Build and train a Neural Network from scratch to predict the number of bikeshare users on a given day.
 
 ## Computer Vision
 
