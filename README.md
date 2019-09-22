@@ -9,6 +9,9 @@ Build and train a Neural Network from scratch to predict the number of bikeshare
 ### 2. Dog-Breed Classifier (CNN - Convolutional Neural Networks)
 Build a pipeline to process real-world, user-supplied images. Given an image of a dog, my CNN identifies an estimate of the canine's breed.
 
+### 3. Generate TV Script (RNN & LSTM)
+Generate a TV script by defining and training a Recurrent Neural Network (RNN), such as Long-term Short-term Memory (LSTM)
+
 ## Computer Vision
 
 ### 1. Facial Keypoint Detection (CNN to detect facial keypoints)
