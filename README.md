@@ -3,8 +3,11 @@ Deep Learning applications, including Computer Vision and Natural Language Proce
 
 ## Deep Learning
 
-### 1. Predicting Bike-Sharing Patterns
+### 1. Predicting Bike-Sharing Patterns (Neural Networks)
 Build and train a Neural Network from scratch to predict the number of bikeshare users on a given day.
+
+### 2. Dog-Breed Classifier (CNN - Convolutional Neural Networks)
+Build a pipeline to process real-world, user-supplied images. Given an image of a dog, my CNN identifies an estimate of the canine's breed.
 
 ## Computer Vision
 
