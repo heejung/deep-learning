@@ -12,6 +12,9 @@ Build a pipeline to process real-world, user-supplied images. Given an image of 
 ### 3. Generate TV Script (RNN & LSTM)
 Generate a TV script by defining and training a Recurrent Neural Network (RNN), such as Long-term Short-term Memory (LSTM)
 
+### 4. Generate Faces (GAN - Generative Adversarial Networks)
+Define two adversarial networks, a generator and discriminator, and train them until you can generate realistic faces.
+
 ## Computer Vision
 
 ### 1. Facial Keypoint Detection (CNN to detect facial keypoints)
