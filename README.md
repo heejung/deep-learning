@@ -1,6 +1,33 @@
 # deep-learning
 Deep Learning applications, including Computer Vision and Natural Language Processing/Understanding applications. Projects are suggested by Udacity (udacity.com).
 
+## Natural Language Processing
+
+### 1. Part of Speech Tagging with Hidden Markov Model (HMM-tagger)
+Use the Pomegranate library to build a hidden Markov model for part of speech tagging with a universal tagset.
+
+### 2. Machine Translation
+Implement various Neural Network based machine translation models:
+
+1. LSTM
+2. Embedding
+3. Bidirectional LSTM
+4. Encoder-Decoder
+5. Embedding + Bidirectional LSTM 
+
+### 3. Speech Recognition with Neural Networks
+Implement various Neural Network based automatic speech recognition models with spectrogram and mel-frequency cepstral coefficients (MFCCs):
+
+1. RNN
+2. RNN + TimeDistributed Dense
+3. CNN + RNN + TimeDistributed Dense
+4. Deeper RNN + TimeDistributted Dense
+5. Bidirectional RNN + TimeDistributed Dense
+6. CNN + Bidirection RNN
+7. CNN + Deeper RNN
+8. CNN + GRU with SortaGrad
+9. CNN + GRU with Sortagrad and Dropout
+
 ## Deep Learning
 
 ### 1. Predicting Bike-Sharing Patterns (Neural Networks)
